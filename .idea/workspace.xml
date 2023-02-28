@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73aa8b1b-93a4-445a-9015-e4bbfebdd43f" name="Changes" comment="v1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hund.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hundestaffel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hundestaffel.java" afterDir="false" />
-    </list>
+    <list default="true" id="73aa8b1b-93a4-445a-9015-e4bbfebdd43f" name="Changes" comment="v2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -56,6 +53,14 @@
       <updated>1677575833534</updated>
       <workItem from="1677575834895" duration="150000" />
     </task>
+    <task id="LOCAL-00001" summary="v2.0">
+      <created>1677579521666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677579521666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0" />
   </component>
 </project>
