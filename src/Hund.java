@@ -13,4 +13,8 @@ class Hund
     void bellen() {
         System.out.println("Wuff, ich bin " + name);
     }
+
+    String getName() {
+        return name;
+    }
 }

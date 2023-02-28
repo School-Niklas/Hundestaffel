@@ -28,4 +28,20 @@ class Hundestaffel {
             hunde.remove(i);
         }
     }
+    public void removeFirstLast(){
+        hunde.removeLast();
+        hunde.removeFirst();
+    }
+    public Hund getFirstHund() {
+        return hunde.peekFirst();
+    }
+    public void customRemove(int pos) {
+        hunde.set(pos, new Hund());
+    }
+    public boolean checkHund(String Hund) {
+        for (Hund hundeliste : hunde) {
+            return hundeliste.getName() == Hund;
+        }
+        return false;
+    }
 }
